@@ -1,4 +1,4 @@
-module OwningAccount::Module {
+module TicketTutorial::Tickets {
     use Std::Signer;
 
 }
